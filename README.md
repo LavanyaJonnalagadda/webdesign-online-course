@@ -24,4 +24,7 @@ this repo online web design course using react js
      * Spinach
      * Onions
      
-  [Google](https://www.google.com)
+     [Google](www.google.com)
+     
+     ![Tajmahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
+     
